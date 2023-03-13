@@ -403,7 +403,3 @@ p1
 
 ggsave(file=file.path(DEG_cluster.path_gene,"genes_cor_score.pdf"),width = 8,height = 8)
 
-mycol
-library(ggsci)
-show_col(mycol) 
-library(scales)
